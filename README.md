@@ -1,16 +1,13 @@
 # 💫 About Me:
-Who says we can’t master multiple domains?
+ᴡʜᴏ ꜱᴀʏꜱ ᴡᴇ ᴄᴀɴ’ᴛ ᴍᴀꜱᴛᴇʀ ᴍᴜʟᴛɪᴘʟᴇ ᴅᴏᴍᴀɪɴꜱ?
 
-I build, I break, and I secure — that’s my cycle of creation.
+ɪ ʙᴜɪʟᴅ, ɪ ʙʀᴇᴀᴋ, ᴀɴᴅ ɪ ꜱᴇᴄᴜʀᴇ — ᴛʜᴀᴛ’ꜱ ᴍʏ ᴄʏᴄʟᴇ ᴏꜰ ᴄʀᴇᴀᴛɪᴏɴ.
 
-I’m diving deep into both Cybersecurity and DevOps, crafting my path toward becoming an aspiring DevSecOps engineer — where innovation meets protection.
+ɪ’ᴍ ᴅɪᴠɪɴɢ ᴅᴇᴇᴘ ɪɴᴛᴏ ʙᴏᴛʜ ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴀɴᴅ ᴅᴇᴠᴏᴘꜱ, ᴄʀᴀꜰᴛɪɴɢ ᴍʏ ᴘᴀᴛʜ ᴛᴏᴡᴀʀᴅ ʙᴇᴄᴏᴍɪɴɢ ᴀɴ ᴀꜱᴘɪʀɪɴɢ ᴅᴇᴠꜱᴇᴄᴏᴘꜱ ᴇɴɢɪɴᴇᴇʀ — ᴡʜᴇʀᴇ ɪɴɴᴏᴠᴀᴛɪᴏɴ ᴍᴇᴇᴛꜱ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ.
 
+ᴋɴᴏᴡɴ ɪɴ ᴛʜᴇ ᴅɪɢɪᴛᴀʟ ʀᴇᴀʟᴍ ᴀꜱ ᴄɪᴘʜᴇʀ ᴍᴀɢᴇ, ɪ ᴛʜʀɪᴠᴇ ᴏɴ ᴀᴜᴛᴏᴍᴀᴛɪɴɢ ꜱᴇᴄᴜʀɪᴛʏ, ʜᴀʀᴅᴇɴɪɴɢ ꜱʏꜱᴛᴇᴍꜱ, ᴀɴᴅ ʙʀɪᴅɢɪɴɢ ᴛʜᴇ ɢᴀᴘ ʙᴇᴛᴡᴇᴇɴ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ꜱᴘᴇᴇᴅ ᴀɴᴅ ꜱᴇᴄᴜʀɪᴛʏ ᴘʀᴇᴄɪꜱɪᴏɴ.
 
-Known in the digital realm as Cipher Mage, I thrive on automating security, hardening systems, and bridging the gap between development speed and security precision.
-
-
-
-Constantly experimenting, learning, and securing — one pipeline at a time. 🚀
+ᴄᴏɴꜱᴛᴀɴᴛʟʏ ᴇxᴘᴇʀɪᴍᴇɴᴛɪɴɢ, ʟᴇᴀʀɴɪɴɢ, ᴀɴᴅ ꜱᴇᴄᴜʀɪɴɢ — ᴏɴᴇ ᴘɪᴘᴇʟɪɴᴇ ᴀᴛ ᴀ ᴛɪᴍᴇ. 🚀
 
 
 ## 🌐 Socials:
